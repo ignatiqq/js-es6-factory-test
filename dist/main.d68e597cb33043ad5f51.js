@@ -1,0 +1,1 @@
+window.addEventListener("DOMContentLoaded",(function(){var e=document.createElement("div");e.id="root",e.insertAdjacentHTML("afterend",document.body),promis()}));
